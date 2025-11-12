@@ -1,0 +1,2 @@
+# demo.db
+Este arquivo é o banco de dados SQLite e será criado automaticamente quando as funções de interação com o banco de dados forem chamadas pela primeira vez. Portanto, não é necessário adicionar conteúdo a este arquivo manualmente.
